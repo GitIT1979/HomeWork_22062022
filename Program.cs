@@ -70,7 +70,7 @@ void PrintArray(int[] array)
     for (int i = 0; i < array.Length; i++)
     // for (int i = 0; i < 8; i++)
     {
-        Console.Write(array[i] + ", ");
+        Console.Write(array[i] + " ");
     }
 }
 Console.WriteLine("Input minimal value of the massive: ");
